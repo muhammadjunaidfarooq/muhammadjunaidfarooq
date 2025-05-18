@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=000000&center=true&vCenter=true&width=2000&height=200&lines=Hello+Everyone%F0%9F%91%8B%F0%9F%8F%BC;I+am+Muhammad+Junaid+Farooq!%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=2d61b7&center=true&vCenter=true&width=2000&height=200&lines=Hello+Everyone%F0%9F%91%8B%F0%9F%8F%BC;I+am+Muhammad+Junaid+Farooq!%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
