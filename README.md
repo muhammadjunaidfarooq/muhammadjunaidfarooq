@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Banner.png" alt="Muhammad Junaid Farooq" width="100%" align="center" />
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="100%" height="350">
 <br/> <br/>
 <a href="https://www.linkedin.com/in/muhammadjunaidfarooq/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" ></a> &nbsp;
@@ -11,30 +11,28 @@
 <img src="https://skillicons.dev/icons?i=discord&theme=dark" ></a>
  </p>
 
-<p>
+<div>
   <img src="https://readme-typing-svg.herokuapp.com?color=2C658F&lines=I'm+Muhammad+Junaid+Farooq;A+Web+Developer;An+Open+Source+Contributor;A+Proactive+Learner" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=muhammadjunaidfarooq&color=blueviolet&label=Profile+Views" alt="Profile Views" align="right" />
-</p>
+</div>
 
-🌱 I’m currently exploring the world of web development with a focus on building dynamic and user-friendly web applications. I’m passionate about creating scalable solutions and contributing to open-source projects.
+<!-- Animated coding GIF -->
+<img align="right" alt="Coding" width="250" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
-👨‍💻 All of my projects are available at: [https://github.com/muhammadjunaidfarooq](https://github.com/muhammadjunaidfarooq)
-
-💬 Ask me about JavaScript, React, Node.js, and web development best practices.
-
-📫 How to reach me: [junaidfarooq202@gmail.com](mailto:junaidfarooq202@gmail.com)
-
-⚡ Fun fact: **I love solving coding challenges while eating snacks! 🍿**
+- 🌱 I'm currently pursuing an **Software Engineering degree** and building dynamic and user-friendly web applications.
+- 💼 Check out my portfolio at **[https://github.com/muhammadjunaidfarooq](https://github.com/muhammadjunaidfarooq)**  
+- 💬 Ask me about **JavaScript**, **Node.js**, **SQL**, **React**, and web development best practices.
+- 📫 Reach me at **[junaidfarooq202@gmail.com](mailto:junaidfarooq202@gmail.com)**
+- ⚡ Fun fact: **I love solving coding challenges while eating snacks! 🍿**
 
 ---
 
 <h3>💻 Tech Stack:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,mongo,mysql&theme=dark&perline=8" /> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,mongo,mysql,postgresql,prisma,tailwindcss,typescript,nextjs,redux,aws,vercel,github,bootstrap,ubuntu,python,git,express,nodejs,vscode,notion&theme=dark&perline=15" /> 
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,git,express,nodejs,vscode,notion&theme=dark&perline=8" />
 </p>
 
 <p align="center">
