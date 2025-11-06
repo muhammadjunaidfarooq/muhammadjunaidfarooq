@@ -31,8 +31,7 @@
 <h3>💻 Tech Stack:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,mongo,mysql,postgresql,prisma,tailwindcss,typescript,nextjs,redux,aws,vercel,github,bootstrap,ubuntu,python,git,express,nodejs,vscode,notion&theme=dark&perline=15" /> 
-  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,mongo,mysql,postgresql,prisma,tailwindcss,typescript,nextjs,redux,aws,vercel,github,bootstrap,ubuntu,python,git,express,nodejs,vscode,notion&theme=dark&perline=14" /> 
 </p>
 
 <p align="center">
