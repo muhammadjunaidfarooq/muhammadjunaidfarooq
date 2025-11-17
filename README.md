@@ -37,8 +37,8 @@
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=muhammadjunaidfarooq&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-  <img width="438px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjunaidfarooq&theme=tokyonight&hide_border=false" />
-  <img width="480px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjunaidfarooq&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img width="438px" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadjunaidfarooq&theme=tokyonight&hide_border=false" /> <br>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadjunaidfarooq&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 <h3 align="center">Thanks for visiting! ❤️</h3>
