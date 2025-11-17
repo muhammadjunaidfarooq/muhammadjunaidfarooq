@@ -21,7 +21,7 @@
 <!-- Animated coding GIF -->
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
-- 🌱 I'm currently pursuing an **Software Engineering degree** and building dynamic and user-friendly web applications.
+- 🌱 I'm currently pursuing a **Software Engineering degree** and building dynamic and user-friendly web applications.
 - 💼 Check out my portfolio at **https://muhammadjunaid-swe.vercel.app/**  
 - 💬 Ask me about **JavaScript**, **Node.js**, **SQL**, **React**, and web development best practices.
 - 📫 Reach me at **[junaidfarooq202@gmail.com](mailto:junaidfarooq202@gmail.com)**
