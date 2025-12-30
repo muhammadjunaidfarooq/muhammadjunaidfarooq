@@ -13,12 +13,12 @@
  </p>
 
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?color=2C658F&lines=I'm+Muhammad+Junaid+Farooq;A+Full+Stack+Developer;A+Proactive+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2C658&lines=I'm+Muhammad+Junaid+Farooq;A+Full+Stack+Developer;A+Proactive+Learner" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=muhammadjunaidfarooq&color=blueviolet&label=Profile+Views" alt="Profile Views" align="right" />
 </div>
 
-<!-- Animated coding GIF -->
+<!-- Animated coding GIF color=2C658F -->
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
 - 🌱 I'm currently pursuing a **Software Engineering degree** and building dynamic and user-friendly web applications.
