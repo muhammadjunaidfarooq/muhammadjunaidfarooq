@@ -21,10 +21,11 @@
 <!-- Animated coding GIF color=2C658F -->
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/CeDk6XdCgOUAAAAi/develop-web.gif">
 
-- 🌱 I'm currently pursuing a **Software Engineering degree** and building dynamic and user-friendly web applications.
-- 💼 Check out my portfolio at **https://muhammadjunaid-swe.vercel.app/**  
-- 💬 Ask me about **JavaScript**, **Node.js**, **SQL**, **React**, and web development best practices.
-- 📫 Reach me at **[junaidfarooq202@gmail.com](mailto:junaidfarooq202@gmail.com)**
+- 🚀 **Software Engineering Graduate** passionate about building scalable full-stack web applications using the MERN stack and Next.js.
+- 💼 Check out my portfolio: **https://muhammadjunaid-swe.vercel.app/**  
+- 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, **Python**, and **full-stack** web development.
+- 📫 Reach me at: **[junaidfarooq.pk@gmail.com](mailto:junaidfarooq.pk@gmail.com)**
+- 🤖 Exploring **AI integration** in modern web applications and data-driven solutions.
 - ⚡ Fun fact: **I love solving coding challenges while eating snacks! 🍿**
 
 ---
@@ -32,7 +33,7 @@
 <h3>💻 Tech Stack:</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,mongo,mysql,postgresql,prisma,tailwindcss,typescript,nextjs,redux,aws,vercel,github,bootstrap,ubuntu,docker,python,git,express,nodejs,vscode,notion&theme=dark&perline=14" /> 
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,typescript,html,css,nodejs,express,mongo,mysql,redux,tailwindcss,bootstrap,python,git,github,vercel,vscode,ubuntu,notion&theme=dark&perline=14" /> 
 </p>
 
 <p align="center">
